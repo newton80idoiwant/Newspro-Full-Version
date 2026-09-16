@@ -240,4 +240,4 @@ This repository serves as the official landing page for Usenet Explorer. The sof
 **Get the most recent version of Usenet Explorer today!**
 
 ---
-**Last updated:** 2026-09-16 13:11:01 UTC
+**Last updated:** 2026-09-16 17:48:15 UTC
